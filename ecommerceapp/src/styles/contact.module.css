@@ -1,0 +1,27 @@
+.form{
+    background-color: aqua;
+    height: 50vh;
+    width:50vw;
+    position: relative;
+    left: 200px;
+    
+}
+.formchild {
+    height: 60%;
+    width: 100%;
+    position: relative;
+    top: 50px;
+    padding-left: 100px;
+}
+.formcontrol {
+    width:100%;
+    margin: 5px;
+    border-radius: 3px;
+    margin-left: 5px;
+    
+  }
+  button{
+    background-color: rgb(17, 147, 254);
+    border-radius: 5px;
+  }
+
