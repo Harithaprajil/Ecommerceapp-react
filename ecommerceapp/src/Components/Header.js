@@ -6,7 +6,7 @@ function Header() {
     <div>
       <div className={styles.header}>
        <div className={styles.title}>
-          <h1>OneCart</h1>
+          <h1>ProMart</h1>
 
           <nav className="navbar navbar-expand-lg bg-light">
             <div className="container-fluid">
